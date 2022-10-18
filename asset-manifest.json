@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/70928manson/react-internet-speed-converter/static/css/main.253df923.css",
-    "main.js": "/70928manson/react-internet-speed-converter/static/js/main.b30a8c8c.js",
-    "static/js/787.4ec79d1d.chunk.js": "/70928manson/react-internet-speed-converter/static/js/787.4ec79d1d.chunk.js",
-    "index.html": "/70928manson/react-internet-speed-converter/index.html",
-    "main.253df923.css.map": "/70928manson/react-internet-speed-converter/static/css/main.253df923.css.map",
-    "main.b30a8c8c.js.map": "/70928manson/react-internet-speed-converter/static/js/main.b30a8c8c.js.map",
-    "787.4ec79d1d.chunk.js.map": "/70928manson/react-internet-speed-converter/static/js/787.4ec79d1d.chunk.js.map"
+    "main.css": "/react-internet-speed-converter/static/css/main.253df923.css",
+    "main.js": "/react-internet-speed-converter/static/js/main.32b26ee8.js",
+    "static/js/787.4ec79d1d.chunk.js": "/react-internet-speed-converter/static/js/787.4ec79d1d.chunk.js",
+    "index.html": "/react-internet-speed-converter/index.html",
+    "main.253df923.css.map": "/react-internet-speed-converter/static/css/main.253df923.css.map",
+    "main.32b26ee8.js.map": "/react-internet-speed-converter/static/js/main.32b26ee8.js.map",
+    "787.4ec79d1d.chunk.js.map": "/react-internet-speed-converter/static/js/787.4ec79d1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.253df923.css",
-    "static/js/main.b30a8c8c.js"
+    "static/js/main.32b26ee8.js"
   ]
 }
