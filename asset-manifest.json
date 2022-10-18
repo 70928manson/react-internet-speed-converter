@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/70928manson/react-internet-speed-converter/static/css/main.253df923.css",
+    "main.js": "/70928manson/react-internet-speed-converter/static/js/main.b30a8c8c.js",
+    "static/js/787.4ec79d1d.chunk.js": "/70928manson/react-internet-speed-converter/static/js/787.4ec79d1d.chunk.js",
+    "index.html": "/70928manson/react-internet-speed-converter/index.html",
+    "main.253df923.css.map": "/70928manson/react-internet-speed-converter/static/css/main.253df923.css.map",
+    "main.b30a8c8c.js.map": "/70928manson/react-internet-speed-converter/static/js/main.b30a8c8c.js.map",
+    "787.4ec79d1d.chunk.js.map": "/70928manson/react-internet-speed-converter/static/js/787.4ec79d1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253df923.css",
+    "static/js/main.b30a8c8c.js"
+  ]
+}
